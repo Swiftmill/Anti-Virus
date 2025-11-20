@@ -1,0 +1,17 @@
+[
+  {
+    "pattern": "keygen",
+    "description": "Known crack/keygen executable",
+    "severity": "high"
+  },
+  {
+    "pattern": ".bat",
+    "description": "Batch script execution",
+    "severity": "medium"
+  },
+  {
+    "pattern": "suspicious_macro.docm",
+    "description": "Document with embedded macro",
+    "severity": "medium"
+  }
+]
