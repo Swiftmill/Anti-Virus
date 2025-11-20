@@ -1,0 +1,11 @@
+{
+  "theme": "neo-blue",
+  "language": "en",
+  "rememberedUserId": null,
+  "quickScanPaths": [
+    "~/Documents",
+    "~/Downloads",
+    "~/Desktop"
+  ],
+  "realtimeProtection": false
+}
